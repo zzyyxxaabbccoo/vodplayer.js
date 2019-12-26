@@ -3,7 +3,7 @@
 
 * 本项目用于线上点播调度文件[vodplayer.js](http://js.player.cntv.cn/creator/vodplayer.js)的阶段性维护，191212复制线上点播调度js文件。
 WH自该版本开始逐步接手此文件更新维护，由于不清楚此文件牵涉到多大范围及后续WNH是否还会对改文件进行修改，于是建立该项目，方便协同工作。
-* 此文件既涉及到flash点播的调用调度又关系到H5的PC点播和移动端H5点播，本项目只关注flash版本的调度、整合、淘汰。新开发H5版本播放器的开发进度流可查看 [h5vod.git](https://github.com/zzyyxxaabbccoo/h5vod.git) 私有项目，的页面可查看 [这里 需链接VPN](http://jstest.v.cntv.cn/h5vod/h5vod.html)
+* 此文件既涉及到flash点播的调用调度又关系到H5的PC点播和移动端H5点播，本项目只关注flash版本的调度、整合、淘汰。新开发H5版本播放器的开发进度流可查看 [h5vod.git](https://github.com/zzyyxxaabbccoo/h5vod.git) 私有项目，demo页面可查看 [这里 需链接VPN](http://jstest.v.cntv.cn/h5vod/h5vod.html)
 * H5点播上线稳定后会和本项目合并，并行维护。
 
 
