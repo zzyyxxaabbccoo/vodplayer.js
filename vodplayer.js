@@ -837,7 +837,7 @@ function givePageUrlToFlash() {
 function doLoadAliAnalyticsJs() {
 
     var jsLoader = createElementByType("script","convivaJs237","absolute","0px","0px","0px","0px");
-    jsLoader.src = "http://js.data.cctv.com/__aplus_plugin_cctv.js,aplus_plugin_aplus_u.js";
+    jsLoader.src = "https://js.data.cctv.com/__aplus_plugin_cctv.js,aplus_plugin_aplus_u.js";
 
     var _doc = document.getElementsByTagName('head')[0];
     _doc.appendChild(jsLoader);
